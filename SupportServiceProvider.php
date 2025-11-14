@@ -2,7 +2,7 @@
 
 namespace Alphavel\Support;
 
-use Alphavel\Core\ServiceProvider;
+use Alphavel\Framework\ServiceProvider;
 
 class SupportServiceProvider extends ServiceProvider
 {
