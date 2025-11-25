@@ -1,7 +1,6 @@
 {
     "name": "alphavel/support",
     "description": "Support utilities for Alphavel Framework",
-    "version": "1.0.0",
     "type": "library",
     "keywords": ["utilities", "helpers", "collection", "alphavel"],
     "license": "MIT",
